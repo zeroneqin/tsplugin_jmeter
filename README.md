@@ -1,7 +1,7 @@
-# TSPlugin - JMeter
+# TSPlugin - JMeter - JSON Schema Assertaion
 
 ## Introduction
-TSPlugin-JMeter(Test Service-JMeter) is a JMeter plugin supply JSON schema assertion. JSON is the most used data format in data exchanging field, and JSON schema is the best way to validate JSON data, this plugin supply this function for JMeter.
+TSPlugin-JMeter-JSON Schema Assertion(Test Service-Plugin-JMeter-JSON Schema Assertion) is a JMeter plugin supply JSON schema assertion function. JSON is the most used format when exchanging data special in service field, and JSON schema is the best way to validate JSON data, this plugin supply this function for JMeter.
 ## Author
 Jun Qin
 ## Bug and issues
